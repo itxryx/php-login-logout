@@ -1,0 +1,9 @@
+{
+    "name": "root/php-login-logout",
+    "autoload": {
+        "psr-4": {
+            "Root\\PhpLoginLogout\\": "src/"
+        }
+    },
+    "require": {}
+}
